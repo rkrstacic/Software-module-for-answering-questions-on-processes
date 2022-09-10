@@ -58,13 +58,13 @@ json = [
         "phases": [
             {
                 "name": "Foo",
-                "alias": ["<other>", "<names>", "<for>", "<foo>"]
+                "alias": ["<other>", "<names>", "<for>", "<foo>"],
                 "description": "<your description goes here>",
                 "duration": "<Foo duration goes here>",
             },
             {
                 "name": "Bar",
-                "alias": ["<alias are optional>"]
+                "alias": ["<alias are optional>"],
                 "description": "...",
                 "duration": "...",
             },
