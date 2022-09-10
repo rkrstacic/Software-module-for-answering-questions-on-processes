@@ -22,7 +22,7 @@ It was developed using [Google Colaboratory](https://colab.research.google.com/)
 
 ## **:scroll: Features :scroll:**
 
-For a given JSON object that represents a set of business processes (all being linear in the nature) and training data that is oriented around those processes, the module is capable to answer the following question (for a specific business process):
+For a given JSON object that represents a set of business processes (all being linear in the nature) and training data that is oriented around these processes, the module is capable to answer the following question (for a specific business process):
 
 -   P1: What are all the tasks of the process
 -   P2: What is the duration of the process?
